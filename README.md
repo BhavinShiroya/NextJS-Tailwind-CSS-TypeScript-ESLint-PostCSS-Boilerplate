@@ -1,2 +1,2 @@
-# NextJS-Tailwind-CSS-TypeScript-PostCSS-Boilerplate
+# NextJS-Tailwind-CSS-TypeScript-Boilerplate
 NextJS, TailwindCSS, Typescript, SSG
